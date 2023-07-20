@@ -8,6 +8,8 @@ from cryptography.hazmat.primitives.serialization import load_pem_private_key
 
 # Initialize Firebase
 cred = credentials.Certificate("serviceAccountKey.json")
+# add service account key 
+# you can take help of https://sharma-vikashkr.medium.com/firebase-how-to-setup-a-firebase-service-account-836a70bb6646
 firebase_admin.initialize_app(cred)
 db = firestore.client()
 print(db)
