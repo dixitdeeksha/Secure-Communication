@@ -128,6 +128,4 @@ The project performs a correlation analysis between image/file size and encrypti
 
 This project aims to demonstrate secure communication through ECC text encryption and Fernet-based image encryption. It offers a robust and reliable solution for protecting sensitive data during communication. Feel free to contribute to the project or report any issues to make it better!
 
-### Conclusion
 
-This project aims to demonstrate secure communication through ECC text encryption and Fernet-based image encryption. It offers a robust and reliable solution for protecting sensitive data during communication. Feel free to contribute to the project or report any issues to make it better!
